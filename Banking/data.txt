@@ -1,0 +1,3 @@
+daniel Abcd1234 60
+fred jPasswordField1 0
+fred1 qwe123!@#QWE 0
